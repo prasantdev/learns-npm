@@ -1,4 +1,4 @@
-# @devprasant/learns
+# [@devprasant/learns](https://prasantdev.github.io/learns/)
 
 Get docs, word meanings, Harry Potter characters in one place
 
